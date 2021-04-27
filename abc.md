@@ -4,7 +4,7 @@
 ![这是web上的图像](https://img2.baidu.com/it/u=2996154517,347072896&fm=26&fmt=auto&gp=0.jpg)
 
 
-![这是文件目录里的图像]()
+![这是文件目录里的图像](https://github.com/Alan-Dong/homework/blob/main/ADD82D96A79D34B106A13788F6A_9E2E1163_124F.jpg)
 
 
 
