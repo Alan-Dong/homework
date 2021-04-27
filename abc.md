@@ -1,7 +1,7 @@
-[查看另一个文件](https://github.com/Keephair/ProfessionalEglish/blob/master/README.md)
+[查看另一个文件](https://github.com/Alan-Dong/homework/blob/main/README.md)
 
 
-![这是web上的图像](https://p.ananas.chaoxing.com/star3/270_160c/78f78be50c71105d77f0d50039794235.jpg)
+![这是web上的图像](https://img2.baidu.com/it/u=2996154517,347072896&fm=26&fmt=auto&gp=0.jpg)
 
 
 ![这是文件目录里的图像]()
