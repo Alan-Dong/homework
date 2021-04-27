@@ -1,6 +1,6 @@
 # homework
 
-[查看另一个文件](https://github.com/Alan-Dong/homework/blob/main/README.md)
+[查看另一个文件](https://github.com/Alan-Dong/homework/blob/main/abc.md)
 
 
 
